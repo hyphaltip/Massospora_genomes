@@ -1,0 +1,23 @@
+file    percent reads   taxon_id        taxon_name
+kaiju_reads_out/Massospora_3FC_strict.out       6.209910        245168  1224    Proteobacteria
+kaiju_reads_out/Massospora_3FC_strict.out       0.272188        10746   976     Bacteroidetes
+kaiju_reads_out/Massospora_3FC_strict.out       0.212411        8386    1239    Firmicutes
+kaiju_reads_out/Massospora_3FC_strict.out       0.009119        360     201174  Actinobacteria
+kaiju_reads_out/Massospora_3FC_strict.out       0.000279        11      74201   Verrucomicrobia
+kaiju_reads_out/Massospora_3FC_strict.out       0.000203        8       57723   Acidobacteria
+kaiju_reads_out/Massospora_3FC_strict.out       0.000177        7       203682  Planctomycetes
+kaiju_reads_out/Massospora_3FC_strict.out       0.000152        6       1117    Cyanobacteria
+kaiju_reads_out/Massospora_3FC_strict.out       0.000101        4       67810   Candidatus Bipolaricaulota
+kaiju_reads_out/Massospora_3FC_strict.out       0.000051        2       200795  Chloroflexi
+kaiju_reads_out/Massospora_3FC_strict.out       0.000051        2       204428  Chlamydiae
+kaiju_reads_out/Massospora_3FC_strict.out       0.000025        1       1090    Chlorobi
+kaiju_reads_out/Massospora_3FC_strict.out       0.000025        1       40117   Nitrospirae
+kaiju_reads_out/Massospora_3FC_strict.out       0.000025        1       74152   Elusimicrobia
+kaiju_reads_out/Massospora_3FC_strict.out       0.000025        1       203691  Spirochaetes
+kaiju_reads_out/Massospora_3FC_strict.out       0.000025        1       544448  Tenericutes
+kaiju_reads_out/Massospora_3FC_strict.out       0.000025        1       640293  candidate division NC10
+kaiju_reads_out/Massospora_3FC_strict.out       0.000025        1       1134404 Ignavibacteriae
+kaiju_reads_out/Massospora_3FC_strict.out       0.000025        1       1379697 candidate division Zixibacteria
+kaiju_reads_out/Massospora_3FC_strict.out       0.040577        1602    10239   Viruses
+kaiju_reads_out/Massospora_3FC_strict.out       0.436093        17217   NA      cannot be assigned to a (non-viral) phylum
+kaiju_reads_out/Massospora_3FC_strict.out       92.818487       3664485 NA      unclassified
