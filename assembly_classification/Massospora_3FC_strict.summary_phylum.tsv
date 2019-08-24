@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Massospora_3FC_strict.out	2.274756	1223	1224	Proteobacteria
+kaiju_out/Massospora_3FC_strict.out	0.109739	59	1239	Firmicutes
+kaiju_out/Massospora_3FC_strict.out	0.065099	35	976	Bacteroidetes
+kaiju_out/Massospora_3FC_strict.out	0.009300	5	204428	Chlamydiae
+kaiju_out/Massospora_3FC_strict.out	0.007440	4	28890	Euryarchaeota
+kaiju_out/Massospora_3FC_strict.out	0.007440	4	201174	Actinobacteria
+kaiju_out/Massospora_3FC_strict.out	0.003720	2	1117	Cyanobacteria
+kaiju_out/Massospora_3FC_strict.out	0.003720	2	200795	Chloroflexi
+kaiju_out/Massospora_3FC_strict.out	0.003720	2	203682	Planctomycetes
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	57723	Acidobacteria
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	651137	Thaumarchaeota
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1379697	candidate division Zixibacteria
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1930617	Calditrichaeota
+kaiju_out/Massospora_3FC_strict.out	0.042780	23	10239	Viruses
+kaiju_out/Massospora_3FC_strict.out	0.048359	26	NA	cannot be assigned to a (non-viral) phylum
+kaiju_out/Massospora_3FC_strict.out	97.416484	52375	NA	unclassified

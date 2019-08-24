@@ -1,0 +1,55 @@
+file	percent	reads	taxon_id	taxon_name
+kaiju_out/Massospora_3FC_strict.out	1.357786	730	286	Pseudomonas
+kaiju_out/Massospora_3FC_strict.out	0.424076	228	53335	Pantoea
+kaiju_out/Massospora_3FC_strict.out	0.094859	51	544	Citrobacter
+kaiju_out/Massospora_3FC_strict.out	0.089279	48	1357	Lactococcus
+kaiju_out/Massospora_3FC_strict.out	0.057659	31	551	Erwinia
+kaiju_out/Massospora_3FC_strict.out	0.053939	29	59732	Chryseobacterium
+kaiju_out/Massospora_3FC_strict.out	0.022320	12	469	Acinetobacter
+kaiju_out/Massospora_3FC_strict.out	0.013020	7	547	Enterobacter
+kaiju_out/Massospora_3FC_strict.out	0.011160	6	570	Klebsiella
+kaiju_out/Massospora_3FC_strict.out	0.011160	6	613	Serratia
+kaiju_out/Massospora_3FC_strict.out	0.011160	6	1350	Enterococcus
+kaiju_out/Massospora_3FC_strict.out	0.009300	5	662	Vibrio
+kaiju_out/Massospora_3FC_strict.out	0.009300	5	810	Chlamydia
+kaiju_out/Massospora_3FC_strict.out	0.005580	3	33882	Microbacterium
+kaiju_out/Massospora_3FC_strict.out	0.003720	2	262	Francisella
+kaiju_out/Massospora_3FC_strict.out	0.003720	2	1386	Bacillus
+kaiju_out/Massospora_3FC_strict.out	0.003720	2	122277	Pectobacterium
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	209	Helicobacter
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	445	Legionella
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	590	Salmonella
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	637	Arsenophonus
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	724	Haemophilus
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	776	Coxiella
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	943	Ehrlichia
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	978	Cytophaga
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1051	Ectothiorhodospira
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1177	Nostoc
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1301	Streptococcus
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1854	Frankia
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	2742	Marinobacter
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	2745	Halomonas
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	13134	Magnetospirillum
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	41273	Tissierella
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	48073	Microbulbifer
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	59753	Alcanivorax
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	82976	Buttiauxella
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	85079	Thiohalocapsa
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	125216	Roseomonas
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	158483	Cedecea
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	160674	Raoultella
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	204446	Zavarzinia
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	253255	Soehngenia
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	261963	Kangiella
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	308865	Elizabethkingia
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	323449	Pontibacter
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	511434	Candidatus Azobacteroides
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	573657	Candidatus Hodgkinia
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1215913	Litorilinea
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1379908	Rufibacter
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	1938335	Sulfuritortus
+kaiju_out/Massospora_3FC_strict.out	0.001860	1	2126330	Candidatus Kentron
+kaiju_out/Massospora_3FC_strict.out	0.042780	23	10239	Viruses
+kaiju_out/Massospora_3FC_strict.out	0.295737	159	NA	cannot be assigned to a (non-viral) genus
+kaiju_out/Massospora_3FC_strict.out	97.416484	52375	NA	unclassified
